@@ -1,6 +1,8 @@
 # TIPE
 
-#test 1
+#test 1 ok
 
-#test 2
+#test 2 ok
+
+#test 3 ok
 
