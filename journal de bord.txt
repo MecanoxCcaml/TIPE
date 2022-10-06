@@ -25,4 +25,4 @@ conséquences :
 		remplir avec vecteur avant la recherche
 		technique d'expention video
 		technique de segment et de connexité
-c bon
+c bon et encore !
