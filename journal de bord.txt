@@ -1,0 +1,24 @@
+﻿Nom du TIPE ou intitulé…
+Une ville qui déménage !
+
+C pour faire vroum vroum avec sa maison
+
+source :
+	- https://vectuel.com/villes_en_3d/ : modélisation de ville 3d
+	- 
+
+
+pblm :
+- taille de la route
+
+
+
+dimension :
+		1 pixel = 10cm
+		véhicule = 1 rectangle pour le camion => roues, remorque
+			      1 carré pour le tracteur => pleine dimension
+			      1 octogone pour la maison => sur élevé de « la remorque »
+
+
+conséquences :
+		2 plateaux à 2 dimensions.
