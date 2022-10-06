@@ -21,4 +21,7 @@ dimension :
 
 
 conséquences :
-		2 plateaux à 2 dimensions.
+		1 plateaux à 2 dimensions.
+		remplir avec vecteur avant la recherche
+		technique d'expention video
+		technique de segment et de connexité
