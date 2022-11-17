@@ -3,10 +3,17 @@ Une ville qui déménage !
 
 C pour faire vroum vroum avec sa maison
 
-
-pour la file de priorité, faire en ocaml est plus simple avec une liste de priorité toujours trié et rempli au fur et a mesure au bon endroit.
-
-
+idées:
+	- 	pour la file de priorité, faire en ocaml est plus simple avec une liste de priorité 
+			toujours trié et rempli au fur et a mesure au bon endroit.
+	- 	voir d'abord avec un plan 2d, puis une superposition de plan 2d (puis un plan 3d?)
+	-	voir comment faire pour la rotation car il n'y a pas que la translation dans le plan
+			d'où les différents plan 2d au meme étage pour les differentes positions de rotation 
+			(zone de possibilitée avec vecteur pour chaque rotation avec ordre de passage d'un 
+			plan de rotation a l'autre) 
+		ou voir pour faire une rotation en live avec une variable direction et une rotation de 
+			tant de degré à chaque move ou vecteur linéaire sur plusieurs cases comme dans les 
+			jeux pour prévoir la trajectoire
 
 
 source :
@@ -16,6 +23,7 @@ source :
 
 pblm :
 - taille de la route
+- hauteur des obstacles et leur considérations si différents plans
 - direction(si on tourne c mal)
 - bouchon(utiliser une route non Problématique(ne pas bloqué))
 - moyen de transport(bateau possible donc passage terre bateau et bateau terre a prévoir)
@@ -42,8 +50,8 @@ conséquences :
 ______________________________________________________________________________________________________________________________
 
 intro:
-	Après avoir regarder les déménagement de l'extreme au usa, je me suis 
-	poser la question de comment ils choisissent l'itinéraire et comment 
+	Après avoir regarder les déménageurs de l'extreme au usa, je me suis 
+	posé la question de comment ils choisissent l'itinéraire et comment 
 	ils font pour s'assurer que la maison ne puissent pas se coincer sur 
 	la route.
 	Le modéliser 
