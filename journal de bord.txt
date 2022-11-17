@@ -35,6 +35,13 @@ conséquences :
 
 
 
+intro:
+	Après avoir regarder les déménagement de l'extreme au usa, je me suis 
+	poser la question de comment ils choisissent l'itinéraire et comment 
+	ils font pour s'assurer que la maison ne puissent pas se coincer sur 
+	la route.
+	Le modéliser 
+
 
 1. Positionnement thématique
 	info (maths physique)
@@ -53,11 +60,14 @@ conséquences :
 
 
 4. Problématique retenue (au maximum 50 mots)
-	Quel chemin choisir pour déplacer sa maison et comment le modéliser ?
+	Quel chemin choisir pour déplacer sa maison ?
+	Quels critères faut-il prendre en compte ?
+	Quelles sont les limites à ne pas dépasser?
+	Comment le modéliser ?
 
 
 5. Objectifs du TIPE (au maximum 100 mots)
-	trouver le chemin le plus rapide, le moins risqué, 
+	Trouver le chemin le plus rapide, le moins risqué, et le moins couteux.
 
 
 6. Liste de références bibliographiques (2 à 10 références)
