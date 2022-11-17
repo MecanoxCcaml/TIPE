@@ -48,11 +48,11 @@ intro:
 
 
 2. 5 mots-clés (français et anglais)
-	a)	A*
+	a)	A* / dijkstra
 	b)	vecteur
 	c)	limites
 	d)	déménagement
-	e)	dijkstra
+	e)	supérieur
 
 
 3. Bibliographie commentée (au maximum 650 mots)
