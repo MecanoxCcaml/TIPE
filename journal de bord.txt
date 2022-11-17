@@ -10,7 +10,13 @@ source :
 
 pblm :
 - taille de la route
-
+- direction(si on tourne c mal)
+- bouchon(utiliser une route non Problématique(ne pas bloqué))
+- moyen de transport(bateau possible donc passage terre bateau et bateau terre a prévoir)
+- prévoir les rotations(si camion dans telle position alors tous les vecteurs réducteur de 
+	zone doivent etre déjà prix en compte donc prévoir plusieurs cartes de la meme map mais 
+	avec les différentes rotation du camion) (prévoir juste des zone où le camion peut passer 
+	selon la position suivante, passage d'une pos a l'autre)
 
 
 dimension :
@@ -25,3 +31,33 @@ conséquences :
 		remplir avec vecteur avant la recherche
 		technique d'expention video
 		technique de segment et de connexité
+
+
+
+
+
+1. Positionnement thématique
+	info (maths physique)
+
+
+2. 5 mots-clés (français et anglais)
+	a)	A*
+	b)	vecteur
+	c)	circulation
+	d)	expention
+	e)	dijkstra
+
+
+3. Bibliographie commentée (au maximum 650 mots)
+
+
+
+4. Problématique retenue (au maximum 50 mots)
+	Quel chemin choisir pour déplacer sa maison et comment le modéliser ?
+
+
+5. Objectifs du TIPE (au maximum 100 mots)
+	trouver le chemin le plus rapide, le moins risqué, 
+
+
+6. Liste de références bibliographiques (2 à 10 références)
