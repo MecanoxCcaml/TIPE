@@ -33,7 +33,7 @@ conséquences :
 		technique de segment et de connexité
 
 
-
+______________________________________________________________________________________________________________________________
 
 intro:
 	Après avoir regarder les déménagement de l'extreme au usa, je me suis 
@@ -67,7 +67,9 @@ intro:
 
 
 5. Objectifs du TIPE (au maximum 100 mots)
-	Trouver le chemin le plus rapide, le moins risqué, et le moins couteux.
+	Trouver le chemin le plus rapide, 
+	                  le moins risqué, 
+				   et le moins couteux.
 
 
 6. Liste de références bibliographiques (2 à 10 références)
