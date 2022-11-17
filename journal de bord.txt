@@ -50,8 +50,8 @@ intro:
 2. 5 mots-clés (français et anglais)
 	a)	A*
 	b)	vecteur
-	c)	circulation
-	d)	expention
+	c)	limites
+	d)	déménagement
 	e)	dijkstra
 
 
