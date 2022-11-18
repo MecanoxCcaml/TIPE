@@ -14,6 +14,8 @@ idées:
 		ou voir pour faire une rotation en live avec une variable direction et une rotation de 
 			tant de degré à chaque move ou vecteur linéaire sur plusieurs cases comme dans les 
 			jeux pour prévoir la trajectoire
+	ou
+	-   utiliser le principe de ligne directe puis de segments si la ligne rencontré des obstacles en passant par la droite ou la gauche et regarder la longueur des chemins créés 
 
 
 ----------------------------language ocaml prévu pour la liste mais utilisation de graphics en ocaml donc je pars sur du ocaml
