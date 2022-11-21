@@ -3,6 +3,7 @@ include Graphics;;
 Graphics.open_graph "";;
 
 let points: (int*int) list ref = ref [];;
+
 let edges: (int*int) edge list ref = ref [];;
 
 let draw_point (x,y) = Graphics.fill_circle x y 2;;
