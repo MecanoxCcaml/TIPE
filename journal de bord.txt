@@ -15,7 +15,8 @@ idées:
 			tant de degré à chaque move ou vecteur linéaire sur plusieurs cases comme dans les 
 			jeux pour prévoir la trajectoire
 	ou
-	-   utiliser le principe de ligne directe puis de segments si la ligne rencontré des obstacles en passant par la droite ou la gauche et regarder la longueur des chemins créés 
+	-   utiliser le principe de ligne directe puis de segments si la ligne rencontré des obstacles 
+		en passant par la droite ou la gauche et regarder la longueur des chemins créés 
 
 
 ----------------------------language ocaml prévu pour la liste mais utilisation de graphics en ocaml donc je pars sur du ocaml
@@ -57,11 +58,18 @@ conséquences :
 ______________________________________________________________________________________________________________________________
 
 intro:
-	Après avoir regarder les déménageurs de l'extreme au usa, je me suis 
+	Après avoir regarder les déménageurs de l'extreme au USA, je me suis 
 	posé la question de comment ils choisissent l'itinéraire et comment 
 	ils font pour s'assurer que la maison ne puissent pas se coincer sur 
-	la route.
-	Le modéliser 
+	la route. Mon premier objectif était de créer une maison ayant pour principe 
+	d'être normée pour que chaque pièce soit l'équivalent d'un légo 
+	mobile à souhait. 
+	L'envie de la déplacer étant plus forte sur le long terme, je me suis 
+	intérressé à comment la représenter graphiquement pour la déplacer 
+	puis quelles méthodes utiliser pour avoir un chemin addapté au cahier 
+	des charges.
+
+	
 
 
 1. Positionnement thématique
@@ -73,10 +81,14 @@ intro:
 	b)	vecteur
 	c)	limites
 	d)	déménagement
-	e)	supérieur
+	e)	
 
 
 3. Bibliographie commentée (au maximum 650 mots)
+	représentation des obstacles
+	échelles à utiliser
+	utilisation d'une map 2D puis une multitude de map 2D pour la rotation
+	utilisation d'une map 3D?
 
 
 
