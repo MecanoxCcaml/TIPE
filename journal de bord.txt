@@ -41,6 +41,15 @@ pblm :
 	selon la position suivante, passage d'une pos a l'autre)
 
 
+	début camion = cercle
+
+	zone taille camion dif 
+
+	tt droit et rotation absolu comme train qui sort du garage
+
+	
+
+
 dimension :
 		1 pixel = 10cm
 		véhicule = 1 rectangle pour le camion => roues, remorque
@@ -78,10 +87,12 @@ intro:
 
 2. 5 mots-clés (français et anglais)
 	a)	A* / dijkstra
-	b)	vecteur
+	b)	modélisation
 	c)	limites
-	d)	déménagement
-	e)	
+	d)	déplacement
+	e)	vecteur
+#######liste: carte, niveau de carte, carte 2D/multi 2D/3D, rotation
+
 
 
 3. Bibliographie commentée (au maximum 650 mots)
