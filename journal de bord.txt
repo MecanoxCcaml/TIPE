@@ -29,6 +29,7 @@ pour graphics voir kruskal du prof car ca tourne................................
 source :
 	- https://vectuel.com/villes_en_3d/ : modélisation de ville 3d
 	- https://youtu.be/YZW0_07PdG4 : rechrchze plus court chemin javascript
+	- https://github.com/SebLague/Pathfinding
 
 
 pblm :
