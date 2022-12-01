@@ -88,7 +88,7 @@ intro:
 
 
 2. 5 mots-clés (français et anglais)
-	a)	A* / dijkstra
+	a)	A*(pixel par pixel) / dijkstra / kruskal(arretes)
 	b)	modélisation
 	c)	limites
 	d)	déplacement
