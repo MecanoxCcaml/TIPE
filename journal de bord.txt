@@ -98,6 +98,19 @@ intro:
 
 
 3. Bibliographie commentée (au maximum 650 mots)
+
+		A*(star) est un algorithme permettant de résoudre ce problème.
+	
+	Dans un premier temps, j'ai simplifié le problème au maximum prenant un plan et en considérant le camion comme le plus petit cercle le contenant. J'ai reporté le centre du cercle sur tous les bords des objets faisant des taches noires, les nouveaux obstacles. J'ai alors considéré le camion comme le centre du cercle à la position initiale. Il n'y avait plus qu'à trouver le chemin le plus court jusqu'à l'objectif.
+	
+	Dans un second temps, le camion fut considéré comme une figure quelconque (le représatant) prenant en compte toutes les positions du tracteur routier en fonction de la remorque. Les axes de la figure devant rester parallèles à ceux du plan.
+	
+	Dans un troisième temps, j'ai envisagé les rotations de la figure par rapport au plan.
+	
+	Enfin, j'ai voulu passer du plan à l'espace en ajoutant une troisième dimension. 
+	
+	
+
 	représentation des obstacles
 	échelles à utiliser
 	utilisation d'une map 2D puis une multitude de map 2D pour la rotation
