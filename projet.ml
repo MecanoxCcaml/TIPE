@@ -35,3 +35,14 @@ let click (status : Graphics.status) =
 ;;
 
 Graphics.loop_at_exit [Graphics.Button_down] click;;
+
+
+
+(* github d'une video ( https://www.youtube.com/watch?v=-L-WgKMFuhE ) 
+                    pour A* : https://github.com/SebLague/Pathfinding *)
+
+
+
+
+
+
