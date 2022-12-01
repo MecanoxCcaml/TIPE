@@ -17,6 +17,8 @@ idées:
 	ou
 	-   utiliser le principe de ligne directe puis de segments si la ligne rencontré des obstacles 
 		en passant par la droite ou la gauche et regarder la longueur des chemins créés 
+		
+	pour la recherche faire dif couleurs
 
 
 ----------------------------language ocaml prévu pour la liste mais utilisation de graphics en ocaml donc je pars sur du ocaml
