@@ -116,6 +116,7 @@ intro à modifier pour sur
 	échelles à utiliser
 	utilisation d'une map 2D puis une multitude de map 2D pour la rotation
 	utilisation d'une map 3D?
+	utilisation de vitesse (fct) et probleme pour rotation
 
 
 
@@ -154,3 +155,9 @@ intro:
 	L'objectif sera donc de trouver comment déplacer une maison là où il faut qu'elle soit.
 
 
+L'objectif est de modéliser via l'informatique le déplacement d'une maison d'un point A à un point B avec les contraintes des obstacles créés par les autres maisons.
+
+
+
+Positionnement thématique:
+	informatique (pratique) informatique (théorique) mathématiques()
