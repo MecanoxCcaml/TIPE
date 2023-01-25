@@ -1,3 +1,33 @@
   Une maison qui bouge!
   
   
+intro:
+
+	Trouver la maison de ses rêves est une quête parfois très difficile donc l'avoir au bon endroit est primordial afin de vivre pleinement sa vie.
+	L'objectif sera donc de trouver comment déplacer une maison là où il faut qu'elle soit.
+
+
+L'objectif est de modéliser via l'informatique le déplacement d'une maison d'un point A à un point B avec les contraintes des obstacles créés par les autres maisons.
+
+
+
+Positionnement thématique: (phase 1)
+	informatique (pratique) informatique (théorique) mathématiques()
+  
+2. 5 mots-clés (français et anglais) (phase 2)
+	a)	A*(pixel par pixel) / dijkstra / kruskal(arretes)
+	b)	modélisation
+	c)	limites
+	d)	déplacement
+	e)	vecteur
+  
+Bibliographie (phase 3)
+  
+  
+Problématique retenue (phase 4)
+Il s'agit de modéliser le déplacement d'un objet de taille quelconque à travers un environnement en utilisant le chemin le plus adapté.
+
+Objectif du TIPE du candidat
+1) Définir tous les paramètres de l'expérience à prendre en compte.
+2) Définir différentes interprétation d'un chemin et rechercher le plus approprié
+3) Modélisation d'un plan ou d'une carte en fonction de la méthode de recherche du plus court chemin
