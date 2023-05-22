@@ -108,9 +108,6 @@ intro à modifier pour sur
 #######liste: carte, niveau de carte, carte 2D/multi 2D/3D, rotation
 
 
-
-3. Bibliographie commentée (au maximum 650 mots)
-
 		A*(star) est un algorithme permettant de résoudre ce problème.
 	
 	Dans un premier temps, j'ai simplifié le problème au maximum prenant un plan et en considérant le camion comme le plus petit cercle le contenant. J'ai reporté le centre du cercle sur tous les bords des objets faisant des taches noires, les nouveaux obstacles. J'ai alors considéré le camion comme le centre du cercle à la position initiale. Il n'y avait plus qu'à trouver le chemin le plus court jusqu'à l'objectif.
