@@ -67,6 +67,17 @@ conséquences :
 		technique de segment et de connexité
 
 
+reprise------------------------------------------------------------:
+
+ne pas s'occuper de la 3°dim car soit l'objet bloque soit non (si pont trop bas alors c'est un mur...)
+probleme pas de code car reboot pc et pas de sauvegarde sur clé
+1*) voir code prof pour A* et kruskal (A* le best selon les poids en fonction du calcul des distances par rapport à l'arrivée.
+2*) voir comment modéliser
+3*) voir comment le présenter
+
+
+
+
 ______________________________________________________________________________________________________________________________
 
 intro:
