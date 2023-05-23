@@ -84,6 +84,7 @@ idée final
 	considérer les sommets des obstacles (bords droits)
 	ajouter le véhicule de référence pour n'avoir qu'un point à déplacer
 	faire une fonction droite_possible a b c d qui vérifie si le segment ab coupe le segment cd afin de construire un graphe avec la longueur comme poids.
+	Le graphe représente tous les chemins possible entre chaque sommet d'obstacle + début et arrivée.
 	
 	rotation plus tard
 
