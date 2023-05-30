@@ -23,7 +23,7 @@ idées:
 
 ----------------------------language ocaml prévu pour la liste mais utilisation de graphics en ocaml donc je pars sur du ocaml
 
-pour graphics voir kruskal du prof car ca tourne................................................................
+pour graphics voir A* et dijkstra du prof car ca tourne................................................................
 
 
 source :
